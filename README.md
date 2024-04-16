@@ -1,6 +1,5 @@
-# github-handson
+# 第５回課題
 
-# github-handson
 ## URLとは
 　　「Uniform Resource Locator」の略でwebサイトのページがどこの位置するか示す場所やファイル名などを示す情報の事である。
 
