@@ -4,7 +4,8 @@
 　　「Uniform Resource Locator」の略でwebサイトのページがどこの位置するか示す場所やファイル名などを示す情報の事である。
 
 ## URLの構成
-### ①http:// ②www　③aaaa.co.jp /　④directory ⑤file ⑥html
+###http://wwwaaaa.co.jp/directory/filehtml
+####①http:// ②www　③aaaa.co.jp /　④directory ⑤file ⑥html
 
 ⑴　【スキーム名】　通信手段のプロトコ"http"又"https"で用いられる。
 
