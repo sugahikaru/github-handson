@@ -1,7 +1,7 @@
 # 第５回課題
 
 ## URLとは
-　　「Uniform Resource Locator」の略でwebサイトのページがどこの位置するか示す場所やファイル名などを示す情報の事である。
+「Uniform Resource Locator」の略でwebサイトのページがどこの位置するか示す場所やファイル名などを示す情報の事である。
 
 ## URLの構成
 http://wwwaaaa.co.jp/directory/filehtml
